@@ -1,7 +1,12 @@
-![list-img-6](https://github.com/Harshitha-cns/CNSGPI-L1/assets/168644009/d4a4cddf-0427-42bb-976e-92cdaa0288a4)
-![country-2](https://github.com/Harshitha-cns/CNSGPI-L1/assets/168644009/d9427043-cc6c-4852-a863-107483191d80)
-![country-4](https://github.com/Harshitha-cns/CNSGPI-L1/assets/168644009/e70ac312-fc67-456d-87de-ebdb44b46551)
-![grid-2](https://github.com/Harshitha-cns/CNSGPI-L1/assets/168644009/7c31c8c7-43b0-4c57-b01d-72d1e76a2124)
-![list-img-1](https://github.com/Harshitha-cns/CNSGPI-L1/assets/168644009/d81e8f4f-cdb9-4c01-bc23-7448368c8dd7)
-![logo](https://github.com/Harshitha-cns/CNSGPI-L1/assets/168644009/169b155c-47bc-498c-b8d2-d46584691318)
-![list-img-4](https://github.com/Harshitha-cns/CNSGPI-L1/assets/168644009/d7bd3424-f40f-4694-81bc-3523c65a2c8d)
+👋 Hi, I’m @Harshitha-cns
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+Harshitha-cns/Harshitha-cns is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
